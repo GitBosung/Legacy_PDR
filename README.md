@@ -1,5 +1,7 @@
 # 보행자 추측 항법 (PDR: Pedestrian Dead Reckoning)
 
+![PDR 구조](images/PDR_structure.png)
+
 이 프로젝트는 스마트폰 센서 데이터를 활용하여 보행자의 이동 경로를 추정하는 보행자 추측 항법(PDR)을 구현한 Python 기반 시스템입니다. 
 걸음 검출, 이동 방향 계산, 이동 경로 시각화의 주요 단계를 포함합니다.
 
