@@ -25,17 +25,19 @@
 ---
 
 ## 디렉토리 구조 
+```
 project/
-**├── data/                     # 센서 데이터 파일 저장 폴더**
-**│   └── sensor_data_2.csv     # 센서 데이터 파일**
-**├── src/                      # 주요 기능별 Python 코드**
-**│   ├── data_loader.py        # 데이터 로드 및 전처리**
-**│   ├── detect_steps.py       # 걸음 검출**
-**│   ├── getHeading.py         # 이동 방향 계산**
-**│   └── plot_PDR_path.py      # 경로 계산 및 시각화**
-**├── main.py                   # 프로젝트 실행 스크립트**
-**├── requirements.txt          # 필요한 라이브러리 목록**
-**└── README.md                 # 프로젝트 설명**
+├── data/                     # 센서 데이터 파일 저장 폴더
+│   └── sensor_data_2.csv     # 센서 데이터 파일
+├── src/                      # 주요 기능별 Python 코드
+│   ├── data_loader.py        # 데이터 로드 및 전처리
+│   ├── detect_steps.py       # 걸음 검출
+│   ├── getHeading.py         # 이동 방향 계산
+│   └── plot_PDR_path.py      # 경로 계산 및 시각화
+├── main.py                   # 프로젝트 실행 스크립트
+├── requirements.txt          # 필요한 라이브러리 목록
+└── README.md                 # 프로젝트 설명
+```
 
 
 ---
